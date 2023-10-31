@@ -2,8 +2,7 @@
 
 By the light of day , I craft seamless frontends; but as the sun sets, I transform into a full-stack virtuoso, orchestrating the symphony of code.
 
-Frontend developer [@madde22](https://madde22.com);<br>
-Web3 Frontend developer [@nosurrender](https://nosurrender.studio);<br>
+Development Team lead [@vigo](https://www.vigoindustries.com);<br>
 How to reach me: [linkedin](https://www.linkedin.com/in/arslanziya);<br>
 
 <!--
